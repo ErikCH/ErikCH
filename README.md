@@ -1,8 +1,6 @@
-### Here is What I'm Working On! 👋
+### My name is Erik Hanchett and I'm a full stack developer! 👋
 
 
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ... YouTube
 - 🌱 I’m currently learning ... Vue.js
