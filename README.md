@@ -2,7 +2,7 @@
 
 
 
-- 🔭 I’m currently working at ... Amazon
+- 🔭 I’m currently working at ... Amazon Web Services as a Senior Developer Advocate
 - 🌱 I’m currently teaching ... Vue.js
 - 👯 I’m looking to collaborate on ... Vue.js
 - 🤔 I’m looking for help with ... React Server Components
