@@ -3,12 +3,12 @@
 
 
 - 🔭 I’m currently working at ... Amazon Web Services as a Senior Developer Advocate
-- 🌱 I’m currently teaching ... Vue.js
-- 👯 I’m looking to collaborate on ... Vue.js
-- 🤔 I’m looking for help with ... React Server Components
+- 🌱 I’m currently teaching ... Kiro, AWS, Frontend, Backend
+- 👯 I’m looking to collaborate on ... Anything!
 - 💬 Ask me about ... Anything
-- 📫 How to reach me: ... [Twitter](https://twitter.com/erikch)
+- 📫 How to reach me: ... [Twitter](https://x.com/erikch)
 - 📫 Also on YouTube: ... [YouTube](http://erik.video)
+- 📫 Also on LinkedIn: ... [LinkedIn](https://www.linkedin.com/in/erikhanchett/)
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... I am half Finnish
 
